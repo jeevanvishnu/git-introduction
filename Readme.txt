@@ -13,4 +13,4 @@ Here are some basic Git commands to get you started:
 To clone a repository from GitHub (or any other Git hosting service), use:
 
 ```bash
-git clone https://github.com/your-username/your-repository.git
+git clone https://github.com/jeevanvishnu
